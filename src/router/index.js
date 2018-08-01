@@ -11,7 +11,7 @@ export default new Router({
       path: '/',
       name: 'Rhymesaurus',
       component: Rhymesaurus
-    },
+     },
     {
       path: '/rhyme-adjective',
       name: 'RhymeAdjective',
